@@ -1,4 +1,23 @@
 <resources>
     <string name="app_name">ALU5</string>
-    <string name="button_text">button</string>
+    <string name="button_start_scanning_text">Start Scanning</string>
+    <string name="button_stop_scanning_text">Stop Scanning</string>
+
+    <string name="notification_channel_default_id">my_channel_1</string>
+    <string name="notification_channel_default_name">general</string>
+
+    <string name="notification_1_title">Witaj ponownie!</string>
+    <string name="notification_1_body">Cieszymy się, że znowu jesteś z nami</string>
+
+    <string name="notification_2_title">Familiada o 16:35 na TVP2</string>
+    <string name="notification_2_body">Nie przegap najlepszego programu rozrywkowego</string>
+
+    <string name="notification_3_title">Obserwujemy Cię!</string>
+    <string name="notification_3_body">Ładowarka podłączona :)</string>
+
+    <string name="notification_4_title">Skanowanie</string>
+    <string name="notification_4_body">Skanowanie beconów aktywne…</string>
+    <string name="toast_scanning">Scanning…</string>
+
+
 </resources>
